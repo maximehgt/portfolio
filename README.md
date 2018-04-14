@@ -44,4 +44,4 @@ Assurer la conformité de votre application avec les langages PHP, JavaScript, H
 # Liens du projet
 
 Gitgub : https://github.com/maximehgt/portfolio
-Site : http://maxime-hugonnet.fr/portfolio/index.php
+Site : http://maxime-hugonnet.fr/openclassrooms/portfolio/index.php
