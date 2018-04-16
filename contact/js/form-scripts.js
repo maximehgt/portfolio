@@ -1,8 +1,8 @@
 $("#contactForm").validator().on("submit", function (event) {
     if (event.isDefaultPrevented()) {
-        // gérer le formulaire invalide
+        // handle the invalid form...
         formError();
-        submitMSG(false, "Avez-vous rempli le formulaire correctement ?");
+        submitMSG(false, "Avez-vous rempli le formulaire correctement?");
     } else {
         // everything looks good!
         event.preventDefault();
@@ -12,14 +12,14 @@ $("#contactForm").validator().on("submit", function (event) {
 
 
 function submitForm(){
-    // Initier des variables avec un contenu de formulaire
+    // Initiate Variables With Form Content
     var name = $("#name").val();
     var email = $("#email").val();
     var message = $("#message").val();
 
     $.ajax({
         type: "POST",
-        url: "process/form-process.php",
+        url: "php/form-process.php",
         data: "name=" + name + "&email=" + email + "&message=" + message,
         success : function(text){
             if (text == "success"){

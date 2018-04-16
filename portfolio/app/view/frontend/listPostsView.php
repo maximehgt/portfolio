@@ -17,9 +17,9 @@
                 <p>De formation "Développeur intégrateur en réalisation d’applications web".<br/>
                 Je recherche un poste de <strong>développeur Web.</strong></p>
 
-                <p>Étant Autodidacte et de par ma formation,</br>
-                renforcée par de nombreux projets visibles sur mon portfolio,</br>
-                m’a permis d’acquérir et de développer toutes les techniques et méthodes</br>
+                <p>Étant Autodidacte et de par ma formation,<br/>
+                renforcée par de nombreux projets visibles sur mon portfolio,<br/>
+                m’a permis d’acquérir et de développer toutes les techniques et méthodes<br/>
               de développement et d’intégration nécessaire.</p>
 
                 <p class="retrouvez-moi">Retrouvez-moi sur :</p>

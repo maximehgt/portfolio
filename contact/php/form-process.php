@@ -2,7 +2,7 @@
 
 $errorMSG = "";
 
-// Nom
+// NAME
 if (empty($_POST["name"])) {
     $errorMSG = "Le nom est requis ";
 } else {
@@ -27,7 +27,7 @@ if (empty($_POST["message"])) {
 $EmailTo = "maxime@maxime-hugonnet.fr";
 $Subject = "Contact site perso";
 
-// préparer le texte du corps de la messagerie
+// prepare email body text
 $Body = "";
 $Body .= "Name: ";
 $Body .= $name;
@@ -39,10 +39,10 @@ $Body .= "Message: ";
 $Body .= $message;
 $Body .= "\n";
 
-// envoyer un email
+// send email
 $success = mail($EmailTo, $Subject, $Body, "From:".$email);
 
-// rediriger vers la page de réussite
+// redirect to success page
 if ($success && $errorMSG == ""){
    echo "Envoyé";
 }else{
