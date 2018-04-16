@@ -1,6 +1,6 @@
 $("#contactForm").validator().on("submit", function (event) {
     if (event.isDefaultPrevented()) {
-        // handle the invalid form...
+        // gérer le formulaire invalide
         formError();
         submitMSG(false, "Avez-vous rempli le formulaire correctement ?");
     } else {
@@ -12,7 +12,7 @@ $("#contactForm").validator().on("submit", function (event) {
 
 
 function submitForm(){
-    // Initiate Variables With Form Content
+    // Initier des variables avec un contenu de formulaire
     var name = $("#name").val();
     var email = $("#email").val();
     var message = $("#message").val();
