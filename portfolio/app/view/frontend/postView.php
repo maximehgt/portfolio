@@ -22,6 +22,17 @@
       </div>
     </article>
 </div>
+
+<!--retour-->
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <a class="btn btn-info" href="http://maxime-hugonnet.fr/openclassrooms/portfolio/" role="button">Retour Portfolio</a>
+    </div>
+  </div>
+</div>
+<!--/retour-->
+
 <!-- espace commentaires -->
     <div class="container">
       <hr class="col-lg-10 col-md-12">

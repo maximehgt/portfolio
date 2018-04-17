@@ -20,7 +20,7 @@
           <label for="contentBillet">Contenu : </label>
           <textarea class="form-control tinymce" id="content" name="content" rows="10"></textarea>
         </div>
-
+        
         <button class="btn btn-primary float-right" type="submit">Publier</button>
       </form>
     </div>

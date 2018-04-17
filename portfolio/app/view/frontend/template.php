@@ -72,7 +72,7 @@
                     <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="index.php#portfolio"><i class="fa fa-book"></i> Portfolio</a>
                   </li>
                   <li class="nav-item mx-0 mx-lg-1">
-                    <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="http://maxime-hugonnet.fr/contact/"><i class="fa fa-user"></i> Contact</a>
+                    <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="index.php#contact"><i class="fa fa-user"></i> Contact</a>
                   </li>
                   <li class="nav-item mx-0 mx-lg-1">
                     <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="public/img/cv/HUGONNET-Maxime-CV-2018.pdf"><i class="fa fa-download"></i> Télécharger CV</a>

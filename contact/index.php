@@ -62,6 +62,16 @@
     </div>
     <!--/contact-->
 
+    <!--retour-->
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <a class="btn btn-info" href="http://maxime-hugonnet.fr/openclassrooms/portfolio/" role="button">Retour Portfolio</a>
+            </div>
+        </div>
+    </div>
+    <!--/retour-->
+
     <!--footer-->
     <footer>
         <p class="text-center">Copyright &copy; HGTProduction 2018</p>
