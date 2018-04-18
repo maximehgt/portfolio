@@ -4,19 +4,20 @@
 <head>
   	<meta charset="utf-8">
   	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Portfolio - Maxime hugonnet - Vous cherchez un développeur web ? Ça tombe bien ! Je suis la personne qu'il vous faut ! N'hésitez pas à me contacter et regardez mes réalisations.">
   	<title><?= $title; ?></title>
 
 <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Maxime Hugonnet">
-    <meta name="twitter:description" content="Portfolio - Maxime hugonnet">
+    <meta name="twitter:title" content="Maxime Hugonnet - Portfolio">
+    <meta name="twitter:description" content="Portfolio - Maxime hugonnet - Vous cherchez un développeur web ? Ça tombe bien ! Je suis la personne qu'il vous faut ! N'hésitez pas à me contacter et regardez mes réalisations.">
     <meta name="twitter:image" content="http://maxime-hugonnet.fr/public/img/fb-twi/maximehugonnet.png">
 <!-- Open Graph data -->
-    <meta property="og:title" content="Maxime Hugonnet"/>
+    <meta property="og:title" content="Maxime Hugonnet - Portfolio"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="http://maxime-hugonnet.fr">
     <meta property="og:image" content="http://maxime-hugonnet.fr/public/img/fb-twi/maximehugonnet.png"/>
-    <meta property="og:description" content="Portfolio - Maxime hugonnet"/>
+    <meta property="og:description" content="Portfolio - Maxime hugonnet - Vous cherchez un développeur web ? Ça tombe bien ! Je suis la personne qu'il vous faut ! N'hésitez pas à me contacter et regardez mes réalisations."/>
     <link rel="apple-touch-icon" sizes="180x180" href="./public/img/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./public/img/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="./public/img/favicon-16x16.png">
@@ -115,7 +116,9 @@
         <div class="col-sm-12">
           <p class="text-center"><a class="" href="https://www.linkedin.com/in/maxime-hugonnet-a626a5100/"><i class="fa fa-linkedin-square"></i></a>
           <a class="" href="http://www.viadeo.com/p/002fh5k3ncm3i4j"><i class="fa fa-viadeo"></i></a>
-          <a class="" href="https://github.com/maximehgt"><i class="fa fa-github"></i></a><br/>
+          <a class="" href="https://github.com/maximehgt"><i class="fa fa-github"></i></a>
+          <a class="" href="https://www.facebook.com/HGT-Production-1881873732125865/"><i class="fa fa-facebook-square"></i></a>
+          <a class="" href="https://twitter.com/MaximeMAO?lang=fr"><i class="fa fa-twitter"></i></a><br/>
           <span class="m-0 text-center text-white"> Copyright &copy; HGTProduction 2018</span></p>
             <p class="text-center">
             <p class="copyright text-muted"><a href="index.php?action=login">login</a></p>

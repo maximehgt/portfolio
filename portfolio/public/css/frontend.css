@@ -2,6 +2,7 @@
 /*-------------------- navbar --------------------*/
 /*-------------------- header banner --------------------*/
 /*-------------------- présentation --------------------*/
+/*-------------------- A propos --------------------*/
 /*-------------------- compétences --------------------*/
 /*-------------------- portfolio --------------------*/
 /*-------------------- post-preview --------------------*/
@@ -12,10 +13,6 @@
 /*-------------------- media --------------------*/
 
 /*-------------------- Général --------------------*/
-/*bordure*/
-.border-index {
-	border-bottom: 2px #737373 dashed;
-}
 
 /*page*/
 body {
@@ -270,14 +267,23 @@ header.masthead {
 	color: black;
 }
 
+.pres-loo {
+  color: red;
+}
+
+/*-------------------- A propos --------------------*/
+.propos {
+  margin-top: 30px;
+}
+
 /*-------------------- compétences --------------------*/
 .competence {
-	margin-top: 30px;
+	padding-top: 30px;
+  background-color: white;
 }
 
 /*-------------------- portfolio --------------------*/
 .portfolio {
-  background-color: white;
   padding-top: 30px;
 }
 
@@ -334,7 +340,7 @@ header.masthead {
 
 /*-------------------- contact --------------------*/
 #contact {
-	margin-bottom: 30px;
+  background-color: white;
 }
 
 .contact-tel {

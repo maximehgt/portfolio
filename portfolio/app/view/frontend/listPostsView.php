@@ -1,4 +1,4 @@
-<?php $title = "Maxime Hugonnet | Portfolio"; ?>
+<?php $title = "Maxime Hugonnet - Développeur Web Lyon - Portfolio"; ?>
 <?php $heading = "Maxime Hugonnet"; ?>
 <?php $subHeading = "Développeur Web"; ?>
 
@@ -8,19 +8,20 @@
 <div class="background-index">
       <!-- présentation -->
       <Section class="presention">
-        <div class="container container-marg border-index border-index">
+        <div class="container container-marg  ">
           <div class="row justify-content-center"> <!--Start row-->
             <img class="img-responsive center-block" src="public/img/maxime-rf.png" alt="Maxime Hugonnet" id="maxime">
                 
             <div class= "col-sm-12 text-center mt-4">
               <h1 class="title-id">Maxime Hugonnet</h1>
+              <p>Vous cherchez un développeur web ? <br/>
+                Ça tombe bien ! <br/>
+                Je suis la personne qu'il vous faut !</p>
+
                 <p>De formation "Développeur intégrateur en réalisation d’applications web".<br/>
                 Je recherche un poste de <strong>développeur Web.</strong></p>
 
-                <p>Étant Autodidacte et de par ma formation,<br/>
-                renforcée par de nombreux projets visibles sur mon portfolio,<br/>
-                m’a permis d’acquérir et de développer toutes les techniques et méthodes<br/>
-              de développement et d’intégration nécessaire.</p>
+                <p>N'hésitez pas à <a href="index.php#contact" class="pres-loo">me contacter</a> et regardez <a href="index.php#portfolio" class="pres-loo">mes réalisations.</a><br/></p>
 
                 <p class="retrouvez-moi">Retrouvez-moi sur :</p>
                 <p class="text-center">
@@ -34,12 +35,42 @@
       </Section>
       <!-- /présentation -->
 
+      <!--a propos-->
+      <section class="container container-marg">
+        <div class="propos">
+          <div class="row justify-content-center">
+            <div class="col-sm-12">
+              <h2 class="text-center title-id"><i class="fa fa-black-tie fa-2x text-center"></i><br/> A propos</h2>
+                <p>Curieux, et passionnée par les nouvelles technologies, <br/>
+                ma reconversion dans le développement web me permet aujourd'hui d'exprimer ma créativité. </p>
+
+                <p>J'aime travailler sur des projets variés : <br/>
+                de l'intégration de sites vitrines, au développement de sites dynamiques, <br/>
+              ou encore de sites administrables.</p>
+
+                <p>Étant Autodidacte et de par ma formation,<br/>
+                renforcée par de nombreux projets visibles sur mon portfolio,<br/>
+                m’a permis d’acquérir et de développer toutes les techniques et méthodes<br/>
+                de développement et d’intégration nécessaire.</p>
+
+                <p>Une veille quotidienne et une polyvalence issue d'un parcours professionnel, <br/>
+                riche en expériences sont parmi les atouts que je souhaite<br/>
+                à présent partager au sein d'une nouvelle équipe. </p>
+
+                <p></p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--/a propos-->
+
       <!-- compétences -->
-      <section class="container container-marg border-index">
-        <div class="competence">
+      <section class="competence ">
+        <div class="container container-marg">
           <div class="row justify-content-center">
             <div class="col-sm-12 text-center">
               <h2 class="title-id"><i class="fa fa-cogs"></i><br/> Compétences</h2>
+              <p>Ce que je sais faire et les outils que j'utilise</p>
             </div>
           </div>
 
@@ -49,10 +80,14 @@
               <p>Symfony, WordPress, PHP, MYSQL, JavaScript, Jquery, HTML, CSS, Bootstrap, Materialize</p>
             </div>
             <div class="col-sm-6 mt-4 text-center">
-              <h3><i class="fa fa-arrow-up"></i> Référencement</h3>
-              <p>Optimisations techniques SEO, Rédaction, Suivi et analyses statistiques.</p>
+              <h3><i class="fa fa-arrow-up"></i> Référencement & Responsive</h3>
+              <p>Optimisations techniques SEO, Rédaction, Suivi et analyses statistiques. Sites responsives</p>
             </div>
-            <div class="col-sm-12 mt-4 text-center">
+            <div class="col-sm-6 mt-4 text-center">
+              <h3><i class="fa fa-cogs"></i> Outils et environnements</h3>
+              <p>Linux & Windows, Git & Github, Visual Studio, Sublime Text 3, Brackets, Atom.</p>
+            </div>
+            <div class="col-sm-6 mt-4 text-center">
               <h3><i class="fa fa-star"></i> Management & Projets</h3>
               <p>Management d'équipe, <br/>
               Relation client,
@@ -66,12 +101,12 @@
       <!-- portfolio -->
       <!-- Main Content -->
       <section class="portfolio" id="portfolio">
-        <div class="container border-index">
+        <div class="container ">
           <div class="container container-marg">
             <div class="row">
               <div class="col-sm-12 text-center">
                 <h2 class="title-id"><i class="fa fa-rocket"></i><br/> MES PROJETS</h2>
-                <p>Découvrez ici les derniers projets web sur lesquels j'ai eu le plaisir de travailler.</p>
+                <p>Découvrez ici les derniers projets web sur lesquels j'ai eu le plaisir de travailler</p>
               </div>
             </div>
           </div>
