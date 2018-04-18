@@ -119,8 +119,17 @@
           <a class="" href="https://github.com/maximehgt"><i class="fa fa-github"></i></a>
           <a class="" href="https://www.facebook.com/HGT-Production-1881873732125865/"><i class="fa fa-facebook-square"></i></a>
           <a class="" href="https://twitter.com/MaximeMAO?lang=fr"><i class="fa fa-twitter"></i></a><br/>
+
           <span class="m-0 text-center text-white"> Copyright &copy; HGTProduction 2018</span></p>
-          <div class="fb-like" data-href="https://maxime-hugonnet.fr" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+          
+          <div class="justify content center">
+            <div class="fb-like" data-href="https://maxime-hugonnet.fr" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+          </div>
+
+          <div class="justify content center mt-4">
+            <a class="twitter-share-button" href="https://twitter.com/share" data-size="large" data-text="custom share text" data-url="https://dev.twitter.com/web/tweet-button" data-hashtags="example,demo" data-via="twitterdev" data-related="twitterapi,twitter"><i class="fa fa-twitter"></i> Partager</a>
+          </div>
+
             <p class="text-center">
             <p class="copyright text-muted"><a href="index.php?action=login">login</a></p>
             </p>
