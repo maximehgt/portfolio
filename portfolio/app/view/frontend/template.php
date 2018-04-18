@@ -120,14 +120,15 @@
           <a class="" href="https://www.facebook.com/HGT-Production-1881873732125865/"><i class="fa fa-facebook-square"></i></a>
           <a class="" href="https://twitter.com/MaximeMAO?lang=fr"><i class="fa fa-twitter"></i></a><br/>
           <span class="m-0 text-center text-white"> Copyright &copy; HGTProduction 2018</span></p>
+          <div class="fb-like" data-href="https://maxime-hugonnet.fr" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
             <p class="text-center">
             <p class="copyright text-muted"><a href="index.php?action=login">login</a></p>
             </p>
         </div>
-    </div>
+      </div>
     </footer>
 <!-- /footer -->
-        
+
 <!-- Bootstrap core JavaScript -->
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -135,6 +136,7 @@
 
 <!-- Script -->
 	<script src="<?= PUBLICS ;?>js/app.js" type="text/javascript"></script>
+  <script src="<?= PUBLICS ;?>js/fb.js" type="text/javascript"></script>
 </body>
 
 </html>
