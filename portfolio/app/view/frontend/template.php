@@ -19,8 +19,8 @@
     <meta property="og:image" content="http://maxime-hugonnet.fr/public/img/fb-twi/maximehugonnet.png"/>
     <meta property="og:description" content="Portfolio - Maxime hugonnet - Vous cherchez un développeur web ? Ça tombe bien ! Je suis la personne qu'il vous faut ! N'hésitez pas à me contacter et regardez mes réalisations."/>
     <link rel="apple-touch-icon" sizes="180x180" href="./public/img/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="./public/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="./public/img/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./public/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./public/img/favicon/favicon-16x16.png">
     <link rel="mask-icon" href="./public/img/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
@@ -39,6 +39,8 @@
   	<link rel="icon" type="image/png" sizes="32x32" href="<?= PUBLICS ;?>/img/favicon/favicon-32x32.png">
   	<link rel="icon" type="image/png" sizes="96x96" href="<?= PUBLICS ;?>/img/favicon/favicon-96x96.png">
   	<link rel="icon" type="image/png" sizes="16x16" href="<?= PUBLICS ;?>/img/favicon/favicon-16x16.png">
+  	<link rel="icon" href="./public/img/favicon/favicon.ico" type="image/x-icon" /> 
+  	<link rel="shortcut icon" href="./public/img/favicon/favicon.ico" type="image/x-icon" />
 <!-- /favicon -->
 
 <!-- Bootstrap core CSS -->
