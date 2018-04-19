@@ -162,7 +162,7 @@
                 <a href="public/img/cv/HUGONNET-Maxime-CV-2018.pdf" download="HUGONNET-Maxime-CV-2018"><strong>Télécharger mon CV</strong></a><br/>
 
                 <i class="fa fa-comments"></i>
-                <a href="http://maxime-hugonnet.fr/contact/"><strong>Me contacter par formulaire</strong></a>
+                <a href="http://maxime-hugonnet.fr/contact/index.php"><strong>Me contacter par formulaire</strong></a>
               </div>
           </div>
         </div>

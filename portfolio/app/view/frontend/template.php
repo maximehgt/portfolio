@@ -123,7 +123,7 @@
           <span class="m-0 text-center text-white"> Copyright &copy; HGTProduction 2018</span></p>
           
           <div class="justify content center">
-            <div class="fb-like" data-href="https://maxime-hugonnet.fr" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+            <div class="fb-like" data-href="http://maxime-hugonnet.fr" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
           </div>
 
           <div class="justify content center mt-4">
